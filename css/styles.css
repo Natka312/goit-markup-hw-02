@@ -1,16 +1,6 @@
-:root {
-  --main-font: 'Ralewey', sans-serif;
-  --secondary-font: 'Roboto', sans-serif;
-  --main-txt-cl: #212121;
-  --wight-txt-cl: #ffffff;
-  --secondary-txt-cl: #757575;
-  --accent-txt-cl: #2196f3;
-  --dark-bg-cl: #2f303a;
-  --wight-bg-cl: #f5f4fa;
-}
 body {
-  font-family: var(--main-font);
-  color: var(--main-txt-cl);
+  font-family: 'Roboto',sans-serif;
+  color: #000000;
 }
 .header {
   background-color: #ffffff;
@@ -196,12 +186,12 @@ body {
 }
 .portfolio-title {
   font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 2;
-  letter-spacing: 0.06em;
-  color: #21212;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
 }
 .portfolio-text {
   font-family: 'Roboto';

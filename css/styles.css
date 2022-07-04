@@ -1,13 +1,12 @@
 :root {
-
   --main-font: 'Ralewey', sans-serif;
   --secondary-font: 'Roboto', sans-serif;
   --main-txt-cl: #212121;
-  --wight-txt-cl: #FFFFFF;
+  --wight-txt-cl: #ffffff;
   --secondary-txt-cl: #757575;
-  --accent-txt-cl: #2196F3;
-  --dark-bg-cl: #2F303A;
-  --wight-bg-cl: #F5F4FA;
+  --accent-txt-cl: #2196f3;
+  --dark-bg-cl: #2f303a;
+  --wight-bg-cl: #f5f4fa;
 }
 body {
   font-family: var(--main-font);
@@ -39,7 +38,7 @@ body {
 .link:hover {
   color: #2196f3;
 }
-.curren-link{
+.curren-link {
   color: #2196f3;
 }
 .contact-link {
@@ -126,16 +125,7 @@ body {
 .team {
   background: #e5e5e5;
 }
-.team-title {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.16;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #212121;
-}
+
 .team-list {
   list-style: none;
 }

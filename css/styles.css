@@ -88,7 +88,6 @@ body {
 .hero-btn:hover .hero-btn:focus .hero-btn:active {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
-
 .main {
   background: #f5f4fa;
 }
@@ -199,10 +198,12 @@ body {
   color: #757575;
 }
 .portfolio-btn {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
   background: #f5f4fa;
   border-radius: 4px;
   cursor: pointer;
-  font-weight: 500;
   font-size: 16px;
   line-height: 26px;
   text-align: center;
